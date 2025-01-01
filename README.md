@@ -1,6 +1,6 @@
 # elementary
 
-Basic ideas about thinking entities.
+Basic ideas about thinking entities. These ideas might be right might be wrong, but these what I have learnt for now.
 
 ## Basic of Basics
 
