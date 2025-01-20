@@ -1,3 +1,10 @@
+# Elementary
+
+Version: P1
+Update at: 2025-01-19
+
+---
+
 
 Three patterns of questions I am interested in,
 
@@ -41,6 +48,8 @@ I'm continuously learning and thinking new ideas, so this document will be a wor
 ### IPO model
 
 It's called IPO model because originally the three labels are input, process, output. I change the label in first person perspective.
+
+![IPO model](./IPO%20model.png)
 
 - **sense** is to collect data from environment
 	- I also call it *perception, feeling*,  I prefer to use verb
