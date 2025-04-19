@@ -1,0 +1,9 @@
+Hmm, how to be better, the one quetion I've thinking for so long.
+
+I'd like to express it in a very simple figure, in the future I'd break down the details
+
+(2025.04.18)
+
+## Basic idea
+
+![v1](./how-to-be-better/v1.png)
