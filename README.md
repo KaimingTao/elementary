@@ -1,8 +1,12 @@
 # Elementary
 
-Version: P1
+Version: 2
 
-Update at: 2025-01-19
+Update at: 2025-04-19
+
+---
+
+- [How to be better](./How-to-be-better.md)
 
 ---
 
@@ -13,13 +17,13 @@ Three patterns of questions I am interested in,
 - what to do
 - how to do
 
-Throughout the short human history, people from all time and all places created a myriad of theories, principles, methods to answer some concrete or abstract versions of these questions. I read some of them, I agree some of them, and I also see the limitations in some of them. 
+Throughout the short human history, people from all time and all places created a myriad of theories, principles, methods to answer some concrete or abstract versions of these questions. I read some of them, I agree some of them, and I also see the limitations in some of them.
 
 As one of the people who prefers to seek some potentially better ideas, I took notes every time when I learnt or thought about some good ideas. Throughout the time, I realized some of them provide good paths of thinking and help me solve real world problems. As these patterns of questions are so common and the solutions are generally useful, I decide to share with people who are thinking about questions like **how to think about this?**, **what should I do?**, **how I can achieve the goal?**
 
-I consider these ideas are *elementary*, one reason as mentioned above is they're generalized methods from some logical reasoning. Another reason is I also think these ideas can be the basic for *any kind of intelligence*, human, machine, extraterrestrial, society, company, etc. 
+I consider these ideas are *elementary*, one reason as mentioned above is they're generalized methods from some logical reasoning. Another reason is I also think these ideas can be the basic for *any kind of intelligence*, human, machine, extraterrestrial, society, company, etc.
 
-Some ideas you might be familiar with because I learnt from some well-known people. For others are my insights, you may find they are strange or may be hard to understand, you may agree or disagree. My goal is not to find some absolutely right ideas, my goal is to find ideas that can help solve real world questions. If the idea works that's good, if not I prefer to learn from others and get more experience, I consider it's open-minded. Many times I see solving a problem is just **change the way of thinking**. 
+Some ideas you might be familiar with because I learnt from some well-known people. For others are my insights, you may find they are strange or may be hard to understand, you may agree or disagree. My goal is not to find some absolutely right ideas, my goal is to find ideas that can help solve real world questions. If the idea works that's good, if not I prefer to learn from others and get more experience, I consider it's open-minded. Many times I see solving a problem is just **change the way of thinking**.
 
 I think with enough time of experiencing and thinking, people can realize these ideas by themselves, but some thinking barriers are natural in the thinking pathway, and passing through them are not easy. Even understanding some well-know good ideas requires enough experience and time, for some people it's decades, for some people it will be never. I also see some barriers will repeat everywhere, and share similar patterns. So I note down some methods that I know can help pass the barriers, they are good tips and tricks for myself. To be noted, I don't know all methods.
 
@@ -87,8 +91,8 @@ an additional piece for IPO model
 ## What is model
 
 - also called `knowledge`, `understanding`
-- the term **models** means different ways of seeing or thinking things. 
-- Linguistical, mathematical, physical, philosophical, economical, biological, sociological, theological, theories, principles, axioms, assumptions are all some kinds of models. 
+- the term **models** means different ways of seeing or thinking things.
+- Linguistical, mathematical, physical, philosophical, economical, biological, sociological, theological, theories, principles, axioms, assumptions are all some kinds of models.
 - some of the models are proved by numerous evidences
 - some are not proved but people believe in them
 - some cannot be proved because it's hard
@@ -222,7 +226,7 @@ an additional piece for IPO model
 - learn from people's goodness and badness
 	- know if they're knowledge is good for us
 
-One important thing I'd like to focus on is the things connect to my limited small real world, not to be confused by abstract theories. Some theories, books, principles prefer to talk about "Postulate a spherical chicken" is just wasting the time. I also prefer to focus less on stranger's problem or too large scale I cannot comprehend problem. Yes, the world is in onion shape and the big scale issue will affect my small world, but I know I don't have ability to process them for now. 
+One important thing I'd like to focus on is the things connect to my limited small real world, not to be confused by abstract theories. Some theories, books, principles prefer to talk about "Postulate a spherical chicken" is just wasting the time. I also prefer to focus less on stranger's problem or too large scale I cannot comprehend problem. Yes, the world is in onion shape and the big scale issue will affect my small world, but I know I don't have ability to process them for now.
 
 ---
 
