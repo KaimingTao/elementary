@@ -1,8 +1,6 @@
 # Elementary
 
-Version: 2
-
-Update at: 2025-05-27
+Version: 2025-05-27
 
 ---
 
