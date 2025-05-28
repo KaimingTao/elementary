@@ -6,7 +6,7 @@ Update at: 2025-04-19
 
 ---
 
-- [How to be better](./How-to-be-better.md)
+- [How to be better](./how%20to%20be%20better/how%20to%20be%20better.md)
 
 ---
 

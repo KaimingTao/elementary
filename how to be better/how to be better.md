@@ -6,4 +6,4 @@ I'd like to express it in a very simple figure, in the future I'd break down the
 
 ## Basic idea
 
-![v1](./how-to-be-better/v1.png)
+![v1](v1.png)
