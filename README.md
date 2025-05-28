@@ -2,10 +2,11 @@
 
 Version: 2
 
-Update at: 2025-04-19
+Update at: 2025-05-27
 
 ---
 
+- [Thinker and Doer](./thinker%20and%20doer/thinker%20and%20doer.md)
 - [How to be better](./how%20to%20be%20better/how%20to%20be%20better.md)
 
 ---
