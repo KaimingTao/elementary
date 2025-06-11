@@ -1,6 +1,6 @@
 # Elementary
 
-Version: 2025-05-27
+Version: 2025-06-10
 
 This project is my thoughts about thinking methods that are some kind of general in life. Because they're general I'd consider they're elementary, like atoms in physical world, and pixels in virtual world. Using these basic methods one can create more ways of thinking.
 
