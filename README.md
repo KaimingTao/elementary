@@ -23,8 +23,8 @@ My goals is to provide a guide for thinking without confusion. These methods are
 
 ## Content
 
-- [Thinker and Doer](./thinker%20and%20doer/thinker%20and%20doer.md)
-- [How to be better](./how%20to%20be%20better/how%20to%20be%20better.md)
+- [Thinker and Doer](./thinker-and-doer/thinker-and-doer.md)
+- [How to be better](./how-to-be-better/how-to-be-better.md)
 <!-- - [Elementary questions](./elementary%20questions/elementary%20questions.md) -->
 
 ---
