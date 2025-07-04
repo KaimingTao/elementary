@@ -1,6 +1,7 @@
 # Elementary
 
-![Julia set](./Julia_set.png | width=250)
+<img src="./Julia_set.png" alt="Alt Text" style="width:50%; height:auto;">
+
 
 Version: [2025-07-02](https://kaimingtao.github.io/Elementary/)
 
