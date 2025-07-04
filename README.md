@@ -1,5 +1,7 @@
 # Elementary
 
+![Julia set](./Julia_set.png=250x250)
+
 Version: [2025-07-02](https://kaimingtao.github.io/Elementary/)
 
 ## Rationale
